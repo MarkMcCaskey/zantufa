@@ -1,0 +1,8 @@
+[package]
+name = "zantufa"
+version = "0.1.0"
+authors = ["Mark McCaskey <maoeurk@gmail.com>"]
+
+[dependencies]
+pest = "1.0.0-beta.16"
+pest_derive = "^1.0.0-beta"
